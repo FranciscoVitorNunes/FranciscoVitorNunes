@@ -4,18 +4,17 @@ Bem-vindo ao meu cantinho no GitHub! Sou apaixonado por tecnologia e desenvolvim
 
 🚀 Sobre Mim
 
-💻 Sou estudante e estagiário em Engenharia de Software na UFCA.
+💻 Sou estagiário na startup Gi resíduos.
 
 🎮 Estou desenvolvendo um jogo educacional focado em diálogos interativos e quizzes, onde o tema principal é mulheres e equidade.
 
-📱 Em breve, vou lançar meu primeiro app mobile em React Native, voltado para estudos e focado no ENEM.
 
 🌱 Estou sempre em busca de novos conhecimentos e atualmente estudando Python, React Native, Godot e desenvolvimento mobile no Android Studio.
 
 
 🛠️ Habilidades Técnicas
 
-Frontend: HTML, CSS, JavaScript
+Frontend: HTML, CSS, JavaScript e react js
 
 Backend: Node.js, Express
 
@@ -25,7 +24,7 @@ Game Dev: Godot Engine, design de personagens e interações
 
 Mobile: React Native
 
-Ferramentas: Git, Linux, VS Code
+Ferramentas: Git, github , Linux, VS Code
 
 Automação: Scripts em Python para automação de tarefas no desenvolvimento de games e quizzes
 
@@ -54,7 +53,7 @@ Aperfeiçoar minhas habilidades em análise de dados e inteligência artificial.
 
 Expandir meu projeto de jogo educacional para outras plataformas.
 
-
+Me tornar um programador fulstack 
 
 ---
 
