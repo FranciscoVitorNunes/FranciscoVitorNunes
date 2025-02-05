@@ -1,67 +1,29 @@
-👋 Olá, eu sou o Vitor!
+## 👋 Olá, sou Vitor!
+### Desenvolvedor Fullstack | Criador de Conteúdo | Apaixonado por Tecnologia 🚀
 
-Bem-vindo ao meu cantinho no GitHub! Sou apaixonado por tecnologia e desenvolvimento, com um pé na programação de jogos e outro no desenvolvimento web. Atualmente, estou explorando o universo da programação fullstack e da criação de jogos 2D, especialmente com a engine Godot.
+Sou um estudante de Engenharia de Software com foco em desenvolvimento fullstack e criação de jogos. Estou sempre explorando novas tecnologias e compartilhando conhecimento! 🎮💻
 
-🚀 Sobre Mim
+### 🛠️ Tecnologias e Ferramentas
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-💻 Sou estagiário na startup Gi resíduos.
+### 🌟 Sobre Mim
+- 🎮 Desenvolvendo jogos na Godot e explorando novas mecânicas.
+- 📚 Criando conteúdos para o **AprendaComIA**, compartilhando aprendizado e curiosidades.
+- 🚀 Buscando aprimorar habilidades em **programação e gestão de projetos**.
 
-🎮 Estou desenvolvendo um jogo educacional focado em diálogos interativos e quizzes, onde o tema principal é mulheres e equidade.
+### 📈 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vitor&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor&layout=compact&theme=radical)
 
+### 📲 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AprendaComIA)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu-twitter)
 
-🌱 Estou sempre em busca de novos conhecimentos e atualmente estudando Python, React Native, Godot e desenvolvimento mobile no Android Studio.
-
-
-🛠️ Habilidades Técnicas
-
-Frontend: HTML, CSS, JavaScript e react js
-
-Backend: Node.js, Express
-
-Banco de Dados: MongoDB, SQL
-
-Game Dev: Godot Engine, design de personagens e interações
-
-Mobile: React Native
-
-Ferramentas: Git, github , Linux, VS Code
-
-Automação: Scripts em Python para automação de tarefas no desenvolvimento de games e quizzes
-
-
-🌌 Projetos Recentes
-
-Alguns dos projetos mais legais nos quais estou trabalhando e que você pode conferir:
-
-1. Jogo Educacional 2D na Godot - Um jogo interativo e educativo com diálogos sobre mulheres na ciência.
-
-
-2. Portfólio Web Responsivo - Um layout que se adapta a todas as telas com carrossel e grid.
-
-
-3. App de Estudo para o ENEM - Com resumo, timeline e calendário para organizar estudos.
-
-
-
-💡 O Que Vem a Seguir?
-
-Sempre em movimento, minhas próximas metas incluem:
-
-Ampliar meus conhecimentos em frameworks modernos.
-
-Aperfeiçoar minhas habilidades em análise de dados e inteligência artificial.
-
-Expandir meu projeto de jogo educacional para outras plataformas.
-
-Me tornar um programador fulstack 
-
----
-
-🌐 Conecte-se Comigo 
-
-
-
-
-
-
-Sinta-se à vontade para explorar meus repositórios e me mandar uma mensagem. 🚀 Adoro compartilhar conhecimento e aprender com a comunidade!
+🚀 **Sempre aprendendo e evoluindo!**
