@@ -1,5 +1,5 @@
 ## 👋 Olá, sou Vitor!
-### Desenvolvedor Fullstack | Criador de Conteúdo | Apaixonado por Tecnologia 🚀
+### Desenvolvedor Fullstack | Apaixonado por Tecnologia 🚀
 
 Sou um estudante de Engenharia de Software com foco em desenvolvimento fullstack e criação de jogos. Estou sempre explorando novas tecnologias e compartilhando conhecimento! 🎮💻
 
@@ -14,7 +14,7 @@ Sou um estudante de Engenharia de Software com foco em desenvolvimento fullstack
 
 ### 🌟 Sobre Mim
 - 🎮 Desenvolvendo jogos na Godot e explorando novas mecânicas.
-- 📚 Criando conteúdos para o **AprendaComIA**, compartilhando aprendizado e curiosidades.
+- 📚 Sempre estudando e trabalhando em projetos de programação.
 - 🚀 Buscando aprimorar habilidades em **programação e gestão de projetos**.
 
 ### 📈 Estatísticas
@@ -23,6 +23,6 @@ Sou um estudante de Engenharia de Software com foco em desenvolvimento fullstack
 
 ### 📲 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-vitor-nunes-de-ara%C3%BAjo-224b88255/)
-[![Instagram](https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.instagram.com/vitorn.dev)
+[![Instagram](https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitorn.dev)
 
 🚀 **Sempre aprendendo e evoluindo!**
