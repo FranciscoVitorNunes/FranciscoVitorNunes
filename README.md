@@ -22,7 +22,7 @@ Sou um estudante de Engenharia de Software com foco em desenvolvimento fullstack
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor&layout=compact&theme=radical)
 
 ### 📲 Conecte-se comigo
-[![Portfólio](https://img.shields.io/badge/Portfólio-%230084ff?style=for-the-badge&logo=vercel&logoColor=white)](https://franciscovitor.netlify.app/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-%230084ff?style=for-the-badge&logo=suitcase&logoColor=white)](https://franciscovitor.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-vitor-nunes-de-ara%C3%BAjo-224b88255/)
 [![Instagram](https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitorn.dev)
 
