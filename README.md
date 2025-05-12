@@ -23,7 +23,7 @@ Sou um estudante de Engenharia de Software com foco em desenvolvimento fullstack
 [![Instagram](https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitorn.dev)
 
 ### 📈 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vitor&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FranciscoVitorNunes&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoVitorNunes&layout=compact&theme=radical)
 
 🚀 **Sempre aprendendo e evoluindo!**
